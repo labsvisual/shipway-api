@@ -1,5 +1,5 @@
 {
-  "name": "shipwayapi",
+  "name": "shipway-api",
   "version": "1.0.0",
   "description": "The node.js wrapper for the Shipway.in API.",
   "main": "index.js",
