@@ -336,7 +336,7 @@ describe( 'Shipway Class', () => {
 
         } ).timeout( 3500 );
 
-        it( 'should error out when the parameter is not an object', ( done ) => {
+        it( 'should error out when the parameter does not contain enough arguments', ( done ) => {
 
             p = shipway.addNewShipment( {
 
